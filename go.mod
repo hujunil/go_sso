@@ -1,1 +1,1 @@
-module "go-sso"
+module "go_sso"
